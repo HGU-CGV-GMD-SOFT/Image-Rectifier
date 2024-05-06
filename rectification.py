@@ -14,6 +14,7 @@ import numpy as np
 import logging
 
 
+
 def compute_edgelets(image, sigma=3):
     """Create edgelets as in the paper.
 
